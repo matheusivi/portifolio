@@ -1,3 +1,8 @@
+@import url('https://fonts.googleapis.com/css2?family=Outfit&display=swap');
+
+:root{
+--font-padrao: 'Outfit'
+}
 body{
     background-color: rgb(116, 207, 246);
 }
@@ -18,7 +23,8 @@ img{
 h1{
     font-size: 2em;
     text-align: center;
-    margin-top: -15px;
+    margin-top: -20px;
+    font-family: var(--font-padrao);
     
 }
 
