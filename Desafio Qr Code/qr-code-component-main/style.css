@@ -1,0 +1,31 @@
+body{
+    background-color: rgb(116, 207, 246);
+}
+
+header{
+    background-color: aliceblue;
+    width: 400px;
+    height: 550px;
+    margin: auto;
+    border-radius: 10px;
+}
+
+img{
+  padding: 35px;
+  border-radius: 50px;
+}
+
+h1{
+    font-size: 2em;
+    text-align: center;
+    
+}
+
+p{
+    color: grey;
+    font-size: 18px;
+    text-align: center;
+    padding-left: 50px;
+    padding-right: 50px;
+    
+}
